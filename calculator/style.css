@@ -1,0 +1,16 @@
+html{
+    margin: 0 auto;
+    font-family: arial;
+}
+
+body{
+    margin: 0 auto; 
+    color:pink;   
+}
+
+h1{
+
+}
+.calculator{
+    border: 5px solid black;
+}
