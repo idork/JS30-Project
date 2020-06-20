@@ -7,3 +7,4 @@ skills, I will begin small projects where I implement what I have learned from t
 
 ****************
 These projects are NOT my work. Just lessons I'm following through.
+0 cute calculator-
